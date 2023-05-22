@@ -1,1 +1,1 @@
-python3 
+python3 ["bash", "start.sh"]
